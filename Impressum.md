@@ -4,13 +4,10 @@ title: "Impressum"
 ---
 
 Angaben gemäß § 5 TMG
-
-Marcel Martin
-
-Eichenstraße 50
-
-87463 Dietmannsried
-
+\nMarcel Martin
+\nEichenstraße 50
+\n87463 Dietmannsried
+hmmm
 Vertreten durch:
 
 Marcel Martin
