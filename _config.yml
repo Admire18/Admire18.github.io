@@ -2,7 +2,7 @@ title: "Schafkopf Zähler"
 author: "Marcel Martin"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
-lang: "en"
+lang: "de"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Impressum.md", title: "Impressum"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "adm.applic@gmail.com"}
+ # - {title: Mail, icon: envelope, url: "adm.applic@gmail.com"}
  # - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
  # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
