@@ -8,6 +8,7 @@ Schafkopf Spielstände ganz einfach aufschreiben!
 Schafkopf Zähler schreibt für dich die Punkte mit und gibt eine Übersicht zum Spielverlauf inklusive vieler Statistiken.
 
 Folgende Funktionen werden unterstützt:
+- unendlich viele Runden aufschreiben
 - Spiel speichern
 - verschiedenste Statistiken
 - Runde zurücknehmen
