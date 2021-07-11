@@ -4,15 +4,25 @@ title: "Impressum"
 ---
 
 Impressum
+
 Angaben gemäß § 5 TMG
+
 Marcel Martin
+
 Eichenstraße 50
+
 87463 Dietmannsried
+
 Vertreten durch:
+
 Marcel Martin
+
 Kontakt:
+
 Telefon: +49-017645728939
+
 E-Mail: adm.applic@gmail.com
+
 Haftungsausschluss:
 
 Haftung für Inhalte
