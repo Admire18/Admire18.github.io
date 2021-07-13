@@ -16,6 +16,6 @@ Folgende Funktionen werden unterstützt:
 - Sauspiel, Wenz, Farbwenz, Geier, Farbgeier, Farbsolo, Ramsch
 - Laufende, Stoß, Schneider, Schwarz
 
-#[jekyll-docs]: http://jekyllrb.com/docs/home
-#[jekyll-gh]:   https://github.com/jekyll/jekyll
-#[jekyll-talk]: https://talk.jekyllrb.com/
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
